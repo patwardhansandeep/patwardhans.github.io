@@ -1,20 +1,22 @@
-## Introduction
+## In Short...
 
-I am a salesforce developer/engineer/consultant with 6 years of experience.
+I am a Salesforce Developer/engineer/consultant with 6 years of experience.
 
-## About me...
-Currently working in  <a href="https://www.dnb.com" target="_blank">Dun & Bradstreet</a> as a Senior Salesforce Engineer.
+## Some Details...
+I am currently working in  <a href="https://www.dnb.com" target="_blank">Dun & Bradstreet</a> as a Senior Salesforce Engineer.
 I have worked on <a href="https://www.dnb.com/products/marketing-sales/dnb-optimizer.html" target="_blank">D&B Optimizer for Salesforce</a> and <a href="https://www.dnb.com/products/marketing-sales/dnb-connect-for-salesforce.html" target="_blank">D&B Connect for Salesforce</a>. 
 <br/>. Salesforce AppExchange listing - <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000PrxFOEAZ" target="_blank">D&B Connect For Salesforce</a>
-
 Checkout the product video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l0jkYBSWz9o?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Some details of salesforce knowledge that I have...
-Previously I Have worked in Cloudaction - link to it
+These products are developed using Lightning Aura Components, Apex including scheduled class, batch classes, queueable classes, triggers. Some complex queries are developed to create dashboards and amazing features. I also manage Package processes like creating, releasing, submitting for security reviews and fixing security review issues of managed packages. There is a smaller package which helps Customers migrate from D&B Optimizer to D&B Connect which I have developed.
 
-Pre-Salesforce Experience - list down
+Before joining Dun & Bradstreet, I was employed with Cloudaction Inc. working as a Senior Salesforce Consultant. As a consultant I have worked on projects in companies like ExxonMobil, Change Healthcare, McAfee, City of Hope.
 
+I haven't been in Salesforce World all the time. Previously I used to work as BMC Remedy Consultant (Before that a .Net Developer but more about that later). As a Remedy Consultant I have worked in Column Software, Fujitsu Software and BMC Software in India. In that span I have worked on many different projects like New York Life Insurance.
 
+## Life in College...
+I have completed my Master in Computer Application (M.C.A - computer science)  from University of Pune and Bachelor of Computer Science (B.C.S) from University of Pune.
 
-Education - list
-linkedin and other links provide them here
+## Professional Links
+Contact me on <a href="mailto:sandeeppatwardhan@gmail.com">GMail</a>
+Linkedin - <a href="https://www.linkedin.com/in/sandeeppatwardhan/" target="_blank">Sandeep Patwardhan</a>
