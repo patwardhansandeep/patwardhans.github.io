@@ -14,5 +14,5 @@ I haven't been in Salesforce World all the time. Previously I used to work as BM
 I have completed my Master in Computer Application (M.C.A - computer science)  from University of Pune and Bachelor of Computer Science (B.C.S) from University of Pune.
 
 ## Professional Links
-Contact me on <a href="mailto:sandeeppatwardhan@gmail.com">GMail</a>
+Contact me on <a href="mailto:sandeeppatwardhan@gmail.com">GMail</a><br/>
 Linkedin - <a href="https://www.linkedin.com/in/sandeeppatwardhan/" target="_blank">Sandeep Patwardhan</a>
