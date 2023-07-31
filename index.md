@@ -1,8 +1,10 @@
 ## Some Details...
-I am currently working in  <a href="https://www.dnb.com" target="_blank">Dun & Bradstreet</a> as a Senior Salesforce Engineer.
+I am currently working in <a href="https://www.Zendesk.com" target="_blank">Zendesk</a> as a Salesforce Engineer Manager. I manage a team of 4 senior software engineers and 3-4 contractors working on various integration projects involving Salesforce (Core Sales, CPQ, Marketing, Finance), Workato, Zuora, Internal Systems, Cforia, and NetSuite. I have successfully delivered high-visibility CPQ Projects with complex functionality.
+
+Previously I have worked in <a href="https://www.dnb.com" target="_blank">Dun & Bradstreet</a> as a Senior Salesforce Lead.
 I have worked on <a href="https://www.dnb.com/products/marketing-sales/dnb-optimizer.html" target="_blank">D&B Optimizer for Salesforce</a> and <a href="https://www.dnb.com/products/marketing-sales/dnb-connect-for-salesforce.html" target="_blank">D&B Connect for Salesforce</a>. 
 <br/>. Salesforce AppExchange listing - <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000PrxFOEAZ" target="_blank">D&B Connect For Salesforce</a>
-Checkout the product video
+Check out the product video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l0jkYBSWz9o?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 These products are developed using <b>Lightning Aura Components, Apex including scheduled class, batch classes, queueable classes, triggers</b>. Some complex queries are developed to create dashboards and amazing features. I also manage Package processes like creating, releasing, submitting for security reviews and fixing security review issues of managed packages. There is a smaller package which helps Customers migrate from D&B Optimizer to D&B Connect which I have developed.
 
